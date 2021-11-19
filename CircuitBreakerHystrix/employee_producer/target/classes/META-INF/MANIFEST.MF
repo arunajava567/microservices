@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 14.0.2
+Implementation-Title: SpringBootHelloWorld
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/employee-produ
+ cer/
+Created-By: Maven Integration for Eclipse
+
